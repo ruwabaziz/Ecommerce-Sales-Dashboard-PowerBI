@@ -26,6 +26,11 @@ The dashboard provides dynamic insights into revenue, profit, customer behavior,
 </p>
 
 ---
+## 🎥 Interactive Dashboard Demo
+
+<p align="center">
+  <img src="dashboard-demo.gif" width="850">
+</p>
 
 ## 🛠️ Tools & Skills Used
 
