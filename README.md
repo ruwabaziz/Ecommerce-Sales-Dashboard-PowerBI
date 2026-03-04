@@ -75,7 +75,7 @@ The tables were connected using a common Order ID relationship.
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.png.png)
 
 ---
 
